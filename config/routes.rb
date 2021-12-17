@@ -3,5 +3,5 @@ Rails.application.routes.draw do
 
   post "/checkout", to: "checkout#checkout"
 
-  get "/products", to: "products#index"
+  post "/add-to-cart", to: "carts#add_to_cart"
 end
