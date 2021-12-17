@@ -48,3 +48,10 @@ bubble_candle_22 = BubbleCandle.create(scent: "Gingerbread", color: "Pastel Tan"
 bubble_candle_23 = BubbleCandle.create(scent: "Gingerbread", color: "Plain")
 bubble_candle_24 = BubbleCandle.create(scent: "Pumpkin Spice Latte", color: "Tint of Orange")
 bubble_candle_25 = BubbleCandle.create(scent: "Pumpkin Spice Latte", color: "Plain")
+
+boby_butter1 = BodyButter.create(scent: "Lavender")
+boby_butter2 = BodyButter.create(scent: "Sweet Orange Mango")
+boby_butter3 = BodyButter.create(scent: "Grapefruit & Orange")
+boby_butter4 = BodyButter.create(scent: "Coconut & Vanilla")
+boby_butter5 = BodyButter.create(scent: "Oatmeal Cookie")
+boby_butter6 = BodyButter.create(scent: "Rose & Vanilla")

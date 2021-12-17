@@ -3,7 +3,7 @@ class CreateBubbleCandles < ActiveRecord::Migration[6.0]
     create_table :bubble_candles do |t|
       t.string :scent
       t.string :color
-      t.string :price
+      t.decimal :price
 
       t.timestamps
     end
